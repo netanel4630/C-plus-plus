@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\netanel\source\repos\io and srtreams 3\io and srtreams 3\main.cpp(35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IO and Srtreams 3.vcxproj -> C:\Users\Netanel\source\repos\IO and Srtreams 3\Debug\IO and Srtreams 3.exe

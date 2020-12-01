@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\netanel\source\repos\first program c++\first program c++\main.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  first program C++.vcxproj -> C:\Users\Netanel\source\repos\first program C++\Debug\first program C++.exe

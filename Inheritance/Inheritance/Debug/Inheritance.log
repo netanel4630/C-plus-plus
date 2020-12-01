@@ -1,0 +1,9 @@
+﻿  Account_Util.cpp
+c:\users\netanel\source\repos\inheritance\inheritance\trust_account.h(15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Savings_Account.cpp
+  Trust_Account.cpp
+c:\users\netanel\source\repos\inheritance\inheritance\trust_account.h(15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  main.cpp
+c:\users\netanel\source\repos\inheritance\inheritance\trust_account.h(15): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Generating Code...
+  Inheritance.vcxproj -> C:\Users\Netanel\source\repos\Inheritance\Debug\Inheritance.exe
